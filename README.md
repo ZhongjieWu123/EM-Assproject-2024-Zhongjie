@@ -37,7 +37,7 @@ conda remove -n ecl-course-2024-t4 --all
 ```
 
 ## Collect data
-I collect data from kaggle [Human Development World Index][(https://www.kaggle.com/datasets/iamsouravbanerjee/human-development-index-dataset?resource=download)]
+I collect data from kaggle [Human Development World Index](https://www.kaggle.com/datasets/iamsouravbanerjee/human-development-index-dataset?resource=download)
 
 
 ## How to use it
