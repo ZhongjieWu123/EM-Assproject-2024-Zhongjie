@@ -37,10 +37,8 @@ conda remove -n ecl-course-2024-t4 --all
 ```
 
 ## Collect data
-For this Machine Learning Course the dataset we consider is the [bluebook for bulldozers 
-competition](https://www.kaggle.com/c/bluebook-for-bulldozers/overview). 
-You can download the Train.zip data file [here](https://www.kaggle.com/c/bluebook-for-bulldozers/data), 
-and move unzip your file in the subfolder  `data/bulldozers`
+I collect data from kaggle
+This is the Link https://www.kaggle.com/datasets/iamsouravbanerjee/human-development-index-dataset?resource=download
 
 
 ## How to use it
