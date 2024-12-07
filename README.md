@@ -39,6 +39,8 @@ conda remove -n EM-Assproject-2024-Zhongjie --all
 ## Collect data
 I collect data from kaggle [Brewery Operations and Market Analysis Dataset](https://www.kaggle.com/datasets/ankurnapa/brewery-operations-and-market-analysis-dataset/data)
 
+and we should first to transformed data.
+
 
 ## How to use it
 run the streamlit app
