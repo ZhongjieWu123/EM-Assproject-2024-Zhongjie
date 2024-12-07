@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "em-assproject-2024-zhongjie"
+version = "0.1.0"
+description = ""
+authors = ["Zhongjie Wu <zhongjie.wu@edu.em-lyon.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+catboost = "^1.2.7"
+dill = "^0.3.9"
+numpy = "1.26.0"
+pandas = "^2.2.3"
+python = ">=3.11,<3.13"
+scikit-learn = "^1.5.2"
+streamlit = "^1.39.0"
+charset-normalizer = "^3.4.0"
+seaborn = "^0.13.2"
+
+[tool.poetry.group.dev.dependencies]
+graphviz = "^0.20.3"
+jupyter = "^1.1.1"
+matplotlib = "^3.9.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
