@@ -21,17 +21,22 @@ conda env create -f environment.yml
 conda activate EM-Assproject-2024-Zhongjie
 ```
 
-3) Move to the project directory, and install the project dependencies with
+3) do poetry lock
+```
+poetry lock
+```
+
+4) Move to the project directory, and install the project dependencies with
 ```
 poetry install
 ```
 
-4) Launch a jupyter server with
+5) Launch a jupyter server with
 ```
 jupyter notebook
 ```
 
-5) Remove the environment with
+6) Remove the environment with
 ```
 conda remove -n EM-Assproject-2024-Zhongjie --all
 ```
